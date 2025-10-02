@@ -24,7 +24,7 @@ Type the given words as fast as you can to move your car forward and beat the ra
     📸 Demo GIF
     ![assets](TypingSpeedRace.gif)
 
-🚀 Installation & Run
+## 🚀 Installation & Run
     1. Clone the repo:
 
 git clone https://github.com/GeorgeAlexeev-hub/typing-speed-race.git
@@ -33,9 +33,9 @@ cd typing-speed-race
 Run the game:
 python typing_speed_race.py
 
-    💡 Future Ideas
+
+## 💡 Future Ideas
 Add countdown before race start
 AI opponent car with random WPM
 Sound effects for win/lose
 Leaderboard to track best scores
-
